@@ -1,0 +1,13 @@
+# hwbridge_connect.rc
+# Author: @shipcod3
+
+# This sample resource script will setup a web server to bridge communications to a hardware particulary an automotive and will also establish a session to the hwbridge server
+# Generally used for Car Hacking with msf
+# usage: msfconsole -r hwbridge_connect.rc
+
+use auxiliary/server/local_hwbridge
+set uripath testbus
+run
+use auxiliary/client/hwbridge/connect
+set targeturi testbus
+run
