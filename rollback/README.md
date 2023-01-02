@@ -5,6 +5,9 @@
 
 The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 
+## Vehicles Fully Tested but not Vulnerable
+1. 2020 Toyota Hilux Conquest (FCC ID: BM1EW)
+
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
 - https://medium.com/codex/rollback-important-details-about-the-new-keyfob-vulnerability-86ea5727f3d3
