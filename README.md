@@ -11,6 +11,10 @@ So fellow ROOTCON goers, expect some good hardware and some junks that came out 
 - Code for ROOTCON's Car Hacking Village
 - Sketches for @mintynet's [nano-can](https://github.com/mintynet/nano-can) in testing an ECU Simulator
 - Automation scripts
+- Security Research
+
+# Want to join our adventure?
+Ping us :)
 
 ### If you love our projects and presentations you can buy us a coffee to support our village :)
  <a href="https://www.buymeacoffee.com/shipcod3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
