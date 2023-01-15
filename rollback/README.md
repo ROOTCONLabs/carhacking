@@ -7,6 +7,7 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 
 ## Vehicles Fully Tested but not Vulnerable
 1. 2020 Toyota Hilux Conquest (FCC ID: BM1EW)
+2. 2019 Mitsubishi Montero GLS (FCC ID: GHR-M004)
 
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
