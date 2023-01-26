@@ -21,3 +21,5 @@ The persons below were instrumental in letting us test their vehicles and hw.
 
 - Jayson Vallente
 - Bro. Sterling Rivera
+
+Want to collaborate in this research? Hit us up as we have the right hw :)
