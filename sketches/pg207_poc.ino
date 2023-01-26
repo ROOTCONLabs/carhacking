@@ -15,6 +15,7 @@ void candump();
 void rpm_send();
 void reboot();
 void warning();
+void glitch_mil();
 
 // for candump
 long unsigned int rxId;
@@ -85,6 +86,7 @@ void exec(String command) {
   if(command == "rpm_send"){rpm_send(); done_exec = 1;}
   if(command == "reboot"){reboot(); done_exec = 1;}
   if(command == "warning"){warning(); done_exec = 1;}
+  if(command == "glitch_mil"){glitch_mil(); done_exec = 1;}
   if(done_exec != 1){
     Serial.println(F("Error while execute command! You can try again! Maybe there isn't a command like that! If you retry and the command still error, please press reset!"));
   }
@@ -99,7 +101,7 @@ void help() {
   Serial.println(F("      -= Choose your poison! =-"));
   Serial.println(F("You can execute the following commands: "));
   Serial.println(F("hi  help  candump  rpm_send  reboot"));
-  Serial.println(F("warning"));
+  Serial.println(F("warning  glitch_mil"));
   Serial.println(F("========================================="));
 }
 
@@ -168,6 +170,15 @@ void warning(){
   CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
   CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
 }
+
+void glitch_mil(){
+  while(counter<=5000){
+    byte data1[8] = {counter, 0x00, counter}; 
+    CAN0.sendMsgBuf(0x0F6, 0, 8, data1);
+    counter++;
+  }
+}
+
 
 String input(){
   Serial.print("> ");
