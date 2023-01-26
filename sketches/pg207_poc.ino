@@ -12,7 +12,7 @@ void exec(); //not a command
 void hi();
 void help();
 void candump();
-void rpm_fuzz();
+void rpm_send();
 
 // for candump
 long unsigned int rxId;
