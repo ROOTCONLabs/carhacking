@@ -14,6 +14,7 @@ void help();
 void candump();
 void rpm_send();
 void reboot();
+void warning();
 
 // for candump
 long unsigned int rxId;
@@ -83,6 +84,7 @@ void exec(String command) {
   if(command == "candump"){candump(); done_exec = 1;}
   if(command == "rpm_send"){rpm_send(); done_exec = 1;}
   if(command == "reboot"){reboot(); done_exec = 1;}
+  if(command == "warning"){warning(); done_exec = 1;}
   if(done_exec != 1){
     Serial.println(F("Error while execute command! You can try again! Maybe there isn't a command like that! If you retry and the command still error, please press reset!"));
   }
@@ -97,6 +99,7 @@ void help() {
   Serial.println(F("      -= Choose your poison! =-"));
   Serial.println(F("You can execute the following commands: "));
   Serial.println(F("hi  help  candump  rpm_send  reboot"));
+  Serial.println(F("warning"));
   Serial.println(F("========================================="));
 }
 
@@ -152,6 +155,18 @@ void reboot(){
   byte sec_reboot_data[8] = {0xB8,0x96,0xCF,0x44,0x9D,0x6A,0xAF,0x54};
   CAN0.sendMsgBuf(0x036, 0, 8, first_reboot_data);
   CAN0.sendMsgBuf(0x036, 0, 8, sec_reboot_data);
+}
+
+void warning(){
+  byte warn_msg[8] = {0x160, 0x00, 0x160}; 
+  CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
+  CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
+  CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
+  CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
+  CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
+  CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
+  CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
+  CAN0.sendMsgBuf(0x168, 0, 8, warn_msg);
 }
 
 String input(){
