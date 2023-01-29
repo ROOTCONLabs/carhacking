@@ -1,6 +1,6 @@
 ## List of Vehicles in the PH Car Hacking Scene Affected by Rollback / Rolling-Pwn Attack
 
-1. [2017 Toyota Rush](https://youtube.com/shorts/lYTrSDCGbJs?feature=share)
+1. [2017 Toyota Rush](https://youtube.com/shorts/lYTrSDCGbJs?feature=share) (need to get back to Jayson on this)
 2. [2017 Mazda 2 Sedan](https://youtube.com/shorts/apWLPRXZiHM?feature=share) (FCC ID: SKE13E-01)
 
 The Vehicles enumerated were tested by the Car Hacking Village PH Team.
