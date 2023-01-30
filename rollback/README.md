@@ -1,4 +1,4 @@
-## What is a Rollback Attack / Rolling-Pwn
+## What is a Rollback / Rolling-Pwn Attack
 
 A Rollback  / Rolling-Pwn attack is not really a new replay attack against remote keyless entry systems and keyfobs but a new term for time-agnostic replay attacks despite having rolling codes. Some people have already disclosed this in the past but researchers Levente Csikor and others published a better PoC about it and its prevalence in newer vehicles. A rolling code system in keyless entry systems is one of the solutions to prevent replay attacks. However, some vehicle receivers will accept a sliding window of code in order to avoid accidental key pressed by design. By sending the valid captured signals in a consecutive sequence to some vehicles, it will resynchronized the counter. Once counter is resynced, commands from the previous cycle of the counter should work again. Therefore, these valid captured signals from the keyfob can be used to unlock the car indefinitely.
 
