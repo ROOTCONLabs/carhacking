@@ -16,6 +16,8 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 3. 2006 Toyota Fortuner (FCC ID: B42TA)
 4. 2017 Ford Everest 
 5. 2019 Toyota Hilux (FCC ID: BA2TA)
+6. 2020 Nissan X-Trail 4x4 (FCC ID: S180144102)
+7. 2017 Toyota Wigo
 
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
@@ -32,6 +34,7 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - semprix
 - mogul
 - John Ray
-- PJ
+- PJ (Kapag Mabango Kainin Mo)
+- Napz
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
