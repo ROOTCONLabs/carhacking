@@ -6,6 +6,7 @@ A Rollback  / Rolling-Pwn attack is not really a new replay attack against remot
 
 1. [2017 Toyota Rush](https://youtube.com/shorts/lYTrSDCGbJs?feature=share) (need to get back to Jayson on this)
 2. [2017 Mazda 2 Sedan](https://youtube.com/shorts/apWLPRXZiHM?feature=share) (FCC ID: SKE13E-01)
+3. [2017 Honda Brio V](https://www.youtube.com/shorts/r1GabTsF6UI) (Manufacturer Part Number:	5WK49327)
 
 The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 
@@ -30,5 +31,7 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - Bro. Sterling Rivera
 - semprix
 - mogul
+- John Ray
+- PJ
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
