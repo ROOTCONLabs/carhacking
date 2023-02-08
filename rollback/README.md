@@ -10,7 +10,7 @@ A Rollback  / Rolling-Pwn attack is not really a new replay attack against remot
 4. Aftermarket Code Alarm CAT4P (FCC ID: H5OT66)
 
 ## List of Vehicles affected by a simple Replay Attack
-1. 2014 Ford EcoSport ( [Vehicle Fitment: Ford	EcoSport	2015 - 2018](https://www.shop.carkeyssolutions.co.uk/product/ford-ecosport-2015-2018/))
+1. 2014 Ford EcoSport
 
 The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 
