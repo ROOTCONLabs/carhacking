@@ -9,6 +9,9 @@ A Rollback  / Rolling-Pwn attack is not really a new replay attack against remot
 3. [2017 Honda Brio V](https://www.youtube.com/shorts/r1GabTsF6UI) (Manufacturer Part Number:	5WK49327)
 4. Aftermarket Code Alarm CAT4P (FCC ID: H5OT66)
 
+## List of Vehicles affected by a simple Replay Attack
+1. 2014 Ford EcoSport ( [Vehicle Fitment: Ford	EcoSport	2015 - 2018](https://www.shop.carkeyssolutions.co.uk/product/ford-ecosport-2015-2018/))
+
 The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 
 ## Vehicles Fully Tested but not Vulnerable
@@ -22,6 +25,9 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 8. 2021 Geely Emgrand
 9. 2021 Geely Coolray
 10. 2021 Geely Okavango
+11. 2017 Toyota Fortuner (FCC ID: BM1EW)
+12. 2019 Toyota Land Cruiser VX (FCC ID: BJ2EW)
+13. 2019 Honda Civic 
 
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
@@ -41,5 +47,7 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - PJ (Kapag Mabango Kainin Mo)
 - Napz
 - Shawn
+- Bro. Allan Castro
+- Kuyang Vovoi
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
