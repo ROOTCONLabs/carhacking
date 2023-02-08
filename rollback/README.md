@@ -40,5 +40,6 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - John Ray
 - PJ (Kapag Mabango Kainin Mo)
 - Napz
+- Shawn
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
