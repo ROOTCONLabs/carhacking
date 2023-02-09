@@ -28,6 +28,8 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 11. 2017 Toyota Fortuner (FCC ID: BM1EW)
 12. 2019 Toyota Land Cruiser VX (FCC ID: BJ2EW)
 13. 2019 Honda Civic 
+14. 2017 Ford Ranger Wildtrak 3.2
+15. 2023 Suzuki Jimny 
 
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
