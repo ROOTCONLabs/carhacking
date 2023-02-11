@@ -53,7 +53,7 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - Napz
 - Shawn
 - Bro. Allan Castro
-- Kuyang Vovoi
-- Kuyang Pio Magaling
+- Bro. Vovoi Trangia
+- Bro. Pio Magaling
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
