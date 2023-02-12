@@ -33,6 +33,9 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 14. 2017 Ford Ranger Wildtrak 3.2
 15. 2023 Suzuki Jimny 
 16. [Aventail Basic Car Alarm System AV19](https://www.carsthetics.com/collections/security/products/aventail-basic-car-alarm-system-av19)
+17. 2015 Honda Jazz I-VTEC
+18. 2019 Mitsubishi Expander
+19. 
 
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
@@ -54,6 +57,6 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - Shawn
 - Bro. Allan Castro
 - Bro. Vovoi Trangia
-- Bro. Pio Magaling
+- Bro. Peo Magaling
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
