@@ -16,6 +16,11 @@ So fellow ROOTCON goers, expect some good hardware and some junks that came out 
 # Want to join our adventure?
 Ping us :)
 
+# Become a Sponsor
+To become a sponsor this coming ROOTCON 17, contact us at shipcode AT rootcon dot org
+
+ROOTCON 17 will be on September 27, 28 & 29, 2023 at Taal Vista Hotel in Tagaytay.
+
 ### If you love our projects and presentations you can buy us a coffee to support our village :)
  <a href="https://www.buymeacoffee.com/shipcod3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
