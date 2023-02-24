@@ -4,14 +4,14 @@ A Rollback  / Rolling-Pwn attack is not really a new replay attack against remot
 
 ## List of Vehicles in the PH Car Hacking Scene Affected by Rollback / Rolling-Pwn Attack
 
-1. [2017 Toyota Rush](https://youtube.com/shorts/lYTrSDCGbJs?feature=share) (need to get back to Jayson on this)
+1. [2017 Toyota Rush](https://youtube.com/shorts/lYTrSDCGbJs?feature=share) (Reported to Toyota via Hackerone and was acknowledged)
 2. [2017 Mazda 2 Sedan](https://youtube.com/shorts/apWLPRXZiHM?feature=share) (FCC ID: SKE13E-01)
 3. [2017 Honda Brio V](https://www.youtube.com/shorts/r1GabTsF6UI) (Manufacturer Part Number:	5WK49327)
 4. Aftermarket Code Alarm CAT4P (FCC ID: H5OT66)
 5. 
 
 ## List of Vehicles affected by a simple Replay Attack
-1. 2014 Ford EcoSport
+1. 2014 Ford EcoSport (Ford is aware of this issue when we reported this to Hackerone)
 2. [Cobra Car Alarm 1000-PT-2 2022 Model (UNIVERSAL)](https://www.lazada.com.ph/products/cobra-car-alarm-1000-pt-2-2022-model-universal-i2477259510-s11351369524.html?spm=a2o4l.tm80167379.5934338580.1.69d2rzqHrzqHaw.69d2rzqHrzqHaw&priceCompare=skuId%3A11351369524%3Bsource%3Alazada-om%3Bsn%3Aea77dd71-2e4f-4124-839b-1150539b843b%3BoriginPrice%3A124900%3BvoucherPrice%3A124900%3Btimestamp%3A1676085341414)
 3. [Aventail Basic Car Alarm System AV19](https://www.carsthetics.com/collections/security/products/aventail-basic-car-alarm-system-av19)
 
