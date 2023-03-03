@@ -35,7 +35,7 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 15. 2023 Suzuki Jimny 
 16. 2015 Honda Jazz I-VTEC
 17. 2019 Mitsubishi Expander
-18. 
+18. 2007 Toyota Camry
 
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
