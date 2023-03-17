@@ -8,7 +8,7 @@ A Rollback  / Rolling-Pwn attack is not really a new replay attack against remot
 2. [2017 Mazda 2 Sedan](https://youtube.com/shorts/apWLPRXZiHM?feature=share) (FCC ID: SKE13E-01)
 3. [2017 Honda Brio V](https://www.youtube.com/shorts/r1GabTsF6UI) (Manufacturer Part Number:	5WK49327)
 4. Aftermarket Code Alarm CAT4P (FCC ID: H5OT66)
-5. 
+5. [2017 Toyota Wigo S](https://www.youtube.com/shorts/vL3yjYKuOoU) - It has been observed that this was not reproducible in Flipper Zero but only in HackRF One.
 
 ## List of Vehicles affected by a simple Replay Attack
 1. 2014 Ford EcoSport (Ford is aware of this issue when we reported this to Hackerone)
