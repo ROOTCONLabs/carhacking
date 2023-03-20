@@ -25,7 +25,7 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 4. 2017 Ford Everest 
 5. 2019 Toyota Hilux (FCC ID: BA2TA)
 6. 2020 Nissan X-Trail 4x4 (FCC ID: S180144102)
-7. 2017 Toyota Wigo
+7. 2017 Toyota Wigo (Tested using Flipper Zero at one time but not with HackRF)
 8. 2021 Geely Emgrand
 9. 2021 Geely Coolray
 10. 2021 Geely Okavango
