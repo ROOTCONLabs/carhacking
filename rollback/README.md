@@ -9,6 +9,7 @@ A Rollback  / Rolling-Pwn attack is not really a new replay attack against remot
 3. [2017 Honda Brio V](https://www.youtube.com/shorts/r1GabTsF6UI) (Manufacturer Part Number:	5WK49327)
 4. Aftermarket Code Alarm CAT4P (FCC ID: H5OT66)
 5. [2017 Toyota Wigo S](https://www.youtube.com/shorts/vL3yjYKuOoU) - It has been observed that this was not reproducible in Flipper Zero but only in HackRF One.
+6. 2010 Nissan Navara (FCC ID: KR55WY8462 | Fitments: 2007-2012)
 
 ## List of Vehicles affected by a simple Replay Attack
 1. 2014 Ford EcoSport (Ford is aware of this issue when we reported this to Hackerone)
@@ -36,6 +37,7 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 16. 2015 Honda Jazz I-VTEC
 17. 2019 Mitsubishi Expander
 18. 2007 Toyota Camry
+19. 2004 Nissan X-Trail (CMII ID 2005DJ2120) - Manufactured by Korea Siemens Automotive Systems Corporation
 
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
@@ -58,5 +60,6 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - Bro. Allan Castro
 - Bro. Vovoi Trangia
 - Bro. Peo Magaling
+- Cinco Auto Clinic
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
