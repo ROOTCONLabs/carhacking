@@ -38,6 +38,8 @@ The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 17. 2019 Mitsubishi Expander
 18. 2007 Toyota Camry
 19. 2004 Nissan X-Trail (CMII ID 2005DJ2120) - Manufactured by Korea Siemens Automotive Systems Corporation
+20. 2023 Volkswagen T-Cross (FCC: FS1744M) - Manufactured by  HELLA Shanghai Electronics Co. Ltd
+
 
 ## References
 - https://rollingpwn.github.io/rolling-pwn/
