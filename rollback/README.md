@@ -63,5 +63,6 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - Bro. Vovoi Trangia
 - Bro. Peo Magaling
 - Cinco Auto Clinic
+- Nowel del Mundo
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
