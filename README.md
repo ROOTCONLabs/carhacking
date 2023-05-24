@@ -1,11 +1,9 @@
-# carhackingvillage
-ROOTCON is growing bigger, becoming more mature and better every year and has proved to be an organized chaos since its inception. This year semprix and I (shipcode) finally decided to start our very own Car Hacking Village. It's time to unleash the beast that was trapped in the abyss. 
+# ROOTCON 17 Car Hacking Village Synopsis
+Automotive Security and Car Hacking have been the focus for years now. More talks and research are geared towards it because it is the trend and we owe it to the Car Hacking Village and of course to Charlie Miller and Chris Valasek. They are our inspiration to promote security awareness that cars are hackable too. Cars have computers and technologies that hackers can tap into: wireless, key fobs, CAN Bus, telematics, electronic controllers, ECUs, secure gateways and the infotainment systems.
 
-Automotive Security and Car Hacking have been the focus for like 4 years now if I am not mistaken. More talks and research are geared towards it because it is the trend and we owe it to the Car Hacking Village and of course to Charlie Miller and Chris Valasek. They are our inspiration to promote security awareness that cars are hackable too. Cars have computers and technologies that hackers can tap into: wireless, key fobs, CAN Bus, telematics, electronic controllers, ECUs, secure gateways and the infotainment systems. 
+In order to not have copyright and trademark issues with the Car Hacking Village which debuted at DEFCON 23 and was co-founded by Robert Leale aka carfucar, we contacted them through the advise of Ian Tabor aka mintynet who is also one of my fellow car hackers. And you know what, they allowed us to use their logo and supported us in our initiative since ROOTCON 13. We owe it to them and like I said they are our inspiration.
 
-In order to not have copyright and trademark issues with the Car Hacking Village which debuted at DEFCON 23 and was co-founded by Robert Leale aka carfucar, we contacted them through the advise of Ian Tabor aka mintynet who is also one of my fellow car hackers. And you know what, they allowed us to use their logo and supported us in our initiative. We owe it to them and like I said they are our inspiration. 
-
-So fellow ROOTCON goers, expect some good hardware and some junks that came out of nowhere because we promise we are gonna showcase our 1st ever Car Hacking Village in the Philippines!
+So fellow ROOTCON goers, expect some good hardware and some junks that came out of nowhere because we promise we are gonna showcase something new again today. Finally, we are showcasing one vehicle this year \m/
 
 # About this repo
 - Code for ROOTCON's Car Hacking Village
