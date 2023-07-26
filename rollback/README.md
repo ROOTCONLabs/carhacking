@@ -11,6 +11,7 @@ A Rollback  / Rolling-Pwn attack is not really a new replay attack against remot
 5. [2017 Toyota Wigo S](https://www.youtube.com/shorts/vL3yjYKuOoU) - It has been observed that this was not reproducible in Flipper Zero but only in HackRF One. (Reported to Toyota via Hackerone and was acknowledged)
 6. 2010 Nissan Navara (FCC ID: KR55WY8462 | Fitments: 2007-2012)
 7. [2017 Honda Mobilio RS NAVI](https://youtube.com/shorts/u10esbLgJkk) (Tested by Aj Dumanhug)
+8. 2023 Toyota Rush
 
 ## List of Vehicles affected by a simple Replay Attack
 1. 2014 Ford EcoSport (Ford is aware of this issue when we reported this to Hackerone)
