@@ -19,6 +19,7 @@ Facebook reels and videos: https://www.facebook.com/chvdotph/videos
 1. 2014 Ford EcoSport (Ford is aware of this issue when we reported this to Hackerone)
 2. [Cobra Car Alarm 1000-PT-2 2022 Model (UNIVERSAL)](https://www.lazada.com.ph/products/cobra-car-alarm-1000-pt-2-2022-model-universal-i2477259510-s11351369524.html?spm=a2o4l.tm80167379.5934338580.1.69d2rzqHrzqHaw.69d2rzqHrzqHaw&priceCompare=skuId%3A11351369524%3Bsource%3Alazada-om%3Bsn%3Aea77dd71-2e4f-4124-839b-1150539b843b%3BoriginPrice%3A124900%3BvoucherPrice%3A124900%3Btimestamp%3A1676085341414)
 3. [Aventail Basic Car Alarm System AV19](https://www.carsthetics.com/collections/security/products/aventail-basic-car-alarm-system-av19)
+4. [2010 Suzuki Swift](https://www.facebook.com/100000559941479/videos/296237223373961/)
 
 The Vehicles enumerated were tested by the Car Hacking Village PH Team.
 
@@ -70,5 +71,6 @@ The persons below were instrumental in letting us test their vehicles and hw.
 - Cinco Auto Clinic
 - Nowel del Mundo
 - Aj Dumanhug
+- Henry Caga
 
 Want to collaborate in this research? Hit us up as we have the right hw :)
