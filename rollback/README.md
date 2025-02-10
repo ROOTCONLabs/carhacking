@@ -12,6 +12,8 @@ A Rollback / Rolling-Pwn attack is not really a new replay attack against remote
 6. 2010 Nissan Navara (FCC ID: KR55WY8462 | Fitments: 2007-2012)
 7. [2017 Honda Mobilio RS NAVI](https://youtube.com/shorts/u10esbLgJkk) (Tested by Aj Dumanhug)
 8. 2023 Toyota Rush (Reported to Toyota via Hackerone and was acknowledged)
+9. [2022 Honda Civic](https://www.facebook.com/chvdotph/videos/480673784353597)
+10. [2018 - 2020 Honda ADV](https://www.facebook.com/chvdotph/videos/1348622009471804) (Motorcycle)
 
 Facebook reels and videos: https://www.facebook.com/chvdotph/videos
 
