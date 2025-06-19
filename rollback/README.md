@@ -14,6 +14,7 @@ A Rollback / Rolling-Pwn attack is not really a new replay attack against remote
 8. 2023 Toyota Rush (Reported to Toyota via Hackerone and was acknowledged)
 9. [2022 Honda Civic](https://www.facebook.com/chvdotph/videos/480673784353597)
 10. [2018 - 2020 Honda ADV](https://www.facebook.com/chvdotph/videos/1348622009471804) (Motorcycle)
+11. [Honda Click 2019](https://www.facebook.com/chvdotph/videos/1399957767825557) (Motorcycle)
 
 Facebook reels and videos: https://www.facebook.com/chvdotph/videos
 
