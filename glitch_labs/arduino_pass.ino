@@ -1,6 +1,7 @@
 // code originally from https://www.synacktiv.com/en/publications/how-to-voltage-fault-injection
 // with minor modifications from @shipcod3
 // compatible with Arduino devices like Uno, Nano, ATMega 2560, etc
+// this was used during the Car Hacking Village CTF @ ROOTCON 19
 
 String PASSWORD = "P@s5w0rd890!@"; // will be printed at the GLITCH
 
